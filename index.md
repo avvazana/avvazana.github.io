@@ -1,4 +1,3 @@
-# Avichai Vazana
 ### Software Developer
 ### Experienced in React, Redux, Javascript, Rails, and PostgreSQL
 
@@ -31,10 +30,5 @@ Built with Ruby, HTML, and CSS.
 ### [LinkedIn](https://www.linkedin.com/in/avichaivazana/)
 ### [Github](https://github.com/avvazana)
 
-A nice, well-lit picture of you. The one in the progress tracker is perfect!
-Easy access to your email and your resume
-Link to view a PDF version of your resume
-<a href="path/to/resume">View my Resume</a>
-I should be able to cmd + f 'resume' and 'email'
-Links to your GitHub and LinkedIn
+
 
