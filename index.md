@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Avichai Vazana
+### Software Developer
+### Experienced in React, Redux, Javascript, Rails, and PostgreSQL
 
-You can use the [editor on GitHub](https://github.com/avvazana/avvazana.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+(Page in progress - modifying template and content)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
+I've always had a love for deductive reasoning, something I got to explore in pursuit of my mathematics bachelor, and wanted to employ this style of thinking in my career. 
+At the same time, I wanted to do something practical. I wanted to feel like I'm actively participating in making our world a better place in which to live.
+I see programming as the holy grail of these two passions. 
+It's not an exaggeration to say it's the most potentially consequential field we've ever developed. 
 
-### Markdown
+## Projects
+### Spoofify
+A single-page music application based on Spotify.
+Built using Rails, React, Redux, JavaScript, PostgreSQL, and AWS.  
+[Live](url) | [Github](https://github.com/avvazana/Spoofify)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Pacman: 
+Pacman is a classic arcade game - our hero tries to eat up all the coins while avoiding ghosts. 
+Built with just JavaScript, HTML, and CSS, without extra libraries. 
+[Live](url) | [Github](https://github.com/avvazana/Pacman)
 
-```markdown
-Syntax highlighted code block
+### Chess: 
+Chess is a game of pure strategy, where both players attempt to trap the other's king while protecting their own.
+Built with Ruby, HTML, and CSS.
+[Live](url) | [Github](https://github.com/avvazana/Chess)
 
-# Header 1
-## Header 2
-### Header 3
+### <a href="path/to/email">Email</a>
+### <a href="path/to/resume">View my Resume</a>
+### [LinkedIn](https://www.linkedin.com/in/avichaivazana/)
+### [Github](https://github.com/avvazana)
 
-- Bulleted
-- List
+A nice, well-lit picture of you. The one in the progress tracker is perfect!
+Easy access to your email and your resume
+Link to view a PDF version of your resume
+<a href="path/to/resume">View my Resume</a>
+I should be able to cmd + f 'resume' and 'email'
+Links to your GitHub and LinkedIn
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/avvazana/avvazana.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
