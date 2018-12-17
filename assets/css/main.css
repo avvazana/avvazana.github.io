@@ -1991,24 +1991,34 @@ input, select, textarea {
 		border: solid 1px rgba(255, 255, 255, 0.15);
 		background: rgba(255, 255, 255, 0.05);
 		margin: 0 0 2em 0;
+		margin-bottom: 50px;
+	}
+
+	.touchdiv{
+		margin-top: -30px;
+	}
+
+	.skilldiv{
+		/* margin-top: 50px; */
 	}
 
 		.features section {
 			padding: 1em 3em 1em 7em ;
-			width: 50%;
-			border-top: solid 1px rgba(255, 255, 255, 0.15);
+			width: 33.33%;
+			border: solid 1px rgba(255, 255, 255, 0.15);
 			position: relative;
 			align-items: center;
 			text-align: center;
-		}
 
+		}
+/*
 			.features section:nth-child(-n + 2) {
 				border-top-width: 0;
 			}
 
 			.features section:nth-child(2n) {
-				border-left: solid 1px rgba(255, 255, 255, 0.15);
-			}
+				border: solid 1px rgba(255, 255, 255, 0.15);
+			} */
 
 			.features section .icon {
 				-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease;
@@ -2599,9 +2609,108 @@ input, select, textarea {
 
 /* List */
 
+.react {
+	width: 30px;
+	height: 30px;
+	margin-top: 7px;
+	margin-left: 2px;
+}
+
+.rails {
+	margin-top: 6.8px;
+	/* margin-left: 1px; */
+	width: 30px;
+	height: 30px;
+	border-radius: 20%;
+}
+
 .ruby {
 	width: 30px;
 	height: 30px;
+	margin-top: 4px;
+	margin-right: 2px;
+}
+
+.js {
+	width: 30px;
+	height: 30px;
+	margin-top: 5px;
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	border-bottom-left-radius: 15%;
+	border-bottom-right-radius: 15%;
+}
+
+.flux {
+	width: 30px;
+	height: 30px;
+	margin-top: 6.2px;
+	margin-left: 1px;
+}
+
+.aws {
+	width: 30px;
+	height: 30px;
+	margin-top: 6px;
+}
+
+.jquery {
+	width: 30px;
+	height: 30px;
+	margin-top: 6px;
+}
+
+.git {
+	width: 30px;
+	height: 30px;
+	margin-top: 7px;
+}
+
+.css {
+	width: 30px;
+	height: 30px;
+	margin-top: 8px;
+	margin-left: .5px;
+	border-radius: 20%;
+}
+.java {
+	width: 30px;
+	height: 30px;
+	margin-top: 3px;
+}
+
+.html {
+	width: 30px;
+	height: 30px;
+	margin-top: 8px;
+	/* margin-left: 1px; */
+}
+
+.rspec {
+	width: 30px;
+	height: 30px;
+	margin-top: 7px;
+	margin-left: .5px;
+}
+
+.C {
+	width: 30px;
+	height: 30px;
+	margin-top: 6px;
+	margin-left: 2px;
+}
+
+.psql {
+	width: 30px;
+	height: 30px;
+	margin-top: 7px;
+	/* margin-left: 1px; */
+}
+
+.mysql {
+	width: 45px;
+	height: 45px;
+	margin-top: -.5px;
 }
 
 	ol {
@@ -3208,6 +3317,16 @@ input, select, textarea {
 			width: 75em;
 		}
 
+		/* .inner h1 {
+			margin-top: -270px;
+		}
+
+		.inner p {
+			margin-top: 240px;
+			font-size: 90px;
+
+		} */
+
 			@media screen and (max-width: 1680px) {
 
 				.wrapper > .inner {
@@ -3250,6 +3369,11 @@ input, select, textarea {
 			background-color: #163943;
 		}
 
+		.style2 .content .inner h3 {
+			color: lightgray;
+			font-style: italic;
+		}
+
 		.wrapper.style2-alt {
 			background-color: #3e4094;
 		}
@@ -3257,7 +3381,7 @@ input, select, textarea {
 		.aboutme{
 			background-color: #0F2027 !important;
 			height: 100%;
-			padding-left: 7%;
+			padding-left: 6%;
 		}
 
 		.wrapper.style3 {
